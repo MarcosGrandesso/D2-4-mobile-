@@ -1,0 +1,520 @@
+body {
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+  text-justify: auto;
+  margin-top: 55px;
+  
+}
+
+.partecima {
+  margin: auto 4%;
+  width: auto;
+  max-width: 412px;
+}
+
+.imghomem {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  position: relative;
+  right: 150px;
+
+}
+
+.b {
+  font-weight: normal;
+  color: #787979;
+  font-size: 13px;
+  line-height: 13px;
+
+}
+
+.buton {
+  background-color: #00a78e;
+  padding: 15px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 21px;
+  width: 150px;
+  height: 75px;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  bottom: 240px;
+  left: 55%;
+
+}
+
+.corola {
+  color: #00b18e;
+}
+
+.espaçol {
+  letter-spacing: 2.3px;
+  font-weight: 100;
+}
+
+
+
+.partebaixa {
+  max-width: 400px;
+  height: 600px;
+  width: 915px;
+  display: block;
+  margin: auto;
+}
+
+.waveg {
+  border: #64c9ba solid 2px;
+  background-color: #45a88e;
+  color: #ffffff;
+  width: 395px;
+  position: relative;
+  border-radius: 10px;
+  right: 13px;
+  top: -40px;
+  margin: auto;
+  margin-left: 3%;
+}
+
+.qp {
+  width: 140px;
+  height: 140px;
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  margin: 10px;
+  border-radius: 6px;
+  border: #f6f6f6 2px;
+  position: relative;
+  padding: 20px;
+}
+.topzinho {position: relative;
+bottom: 13px;}
+
+.qp2 {
+  width: 140px;
+  height: 140px;
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  margin: 10px 1% 0 0;
+  border-radius: 6px;
+  border: #f6f6f6 2px;
+  position: relative;
+  padding: 20px;
+}
+
+.fontefina2 {
+  font-weight: 100;
+}
+
+.icon {
+  width: 50px;
+  display: inline;
+  margin-left: 0px;
+}
+
+.barrinha1 {
+  width: 390px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 85%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.barrinha2 {
+  width: 390px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 75%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.barrinha3 {
+  width: 390px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 90%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.barrinha4 {
+  width: 390px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 65%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.leterspace {letter-spacing: 1px;
+              font-size: 18px;
+              color: #787979;}
+
+.fontefina {
+  font-size: 41px;
+  font-weight: 900;
+}
+
+.textow {
+  font-weight: 100;
+  position: relative;
+  left: 35px;
+  top: 10px;
+  z-index: 1;
+  width: 368px;
+}
+
+.listrinha {
+  width: 130px;
+  height: 5px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-left: 45px;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  bottom: 20px;
+  left: 4px;
+}
+
+.listrinha2 {
+  width: 20px;
+  height: 5px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.cantos {
+  width: 15px;
+  position: relative;
+  left: 319px;
+  top: -30px;
+}
+
+.cantos2 {
+  width: 15px;
+  position: relative;
+  left: 285px;
+  top: -30px;
+}
+
+.boldw {
+  font: bold;
+}
+
+.cantos3 {
+  width: 15px;
+  position: relative;
+  left: 340px;
+  top: -30px;
+}
+
+.boldw {
+  font: bold;
+}
+
+.cantos4 {
+  width: 15px;
+  position: relative;
+  left: 250px;
+  top: -30px;
+}
+
+.boldw {
+  font: bold;
+}
+
+.aline {
+  padding-top: 25px;
+  text-align: center;
+}
+
+.listrinha4 {
+  left: 140px;
+  width: 80px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  display: inline-block;
+  position: relative;
+  top: -25px;
+}
+
+.listrinha5 {
+  width: 15px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 3px;
+  display: inline-block;
+  position: relative;
+  top: -25px;
+  left: 140px;
+}
+
+.ulderek {
+  position: relative;
+  display: inline-block;
+  color: #00a78e;
+  left: 35%;
+}
+
+.gradient {
+  background-image: linear-gradient(#f7f7f7, rgb(255, 255, 255));
+}
+
+.iconesss {
+  position: relative;
+  left: 1%;
+}
+
+.listrinha6 {
+  width: 80px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 30%;
+  display: inline-block;
+  position: relative;
+  top: -15px;
+}
+
+.listrinha7 {
+  width: 15px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 3px;
+  display: inline-block;
+  position: relative;
+  top: -15px;
+}
+
+.barras {
+  max-width: 1000px;
+  padding-top: 50px;
+
+  font-size: 24px;
+  ;
+}
+
+.cinzaoatras {
+  background-color: #f9f9f9;
+  max-height: 412px;
+}
+
+.widthimagens {
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+  position: relative;
+  left: -1%;
+}
+
+.baixao {
+  max-width: 420px;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.padingfotos {
+  padding-left: 50px;
+}
+
+.padinghome {
+  padding-left: 50px;
+  font-size: 17px;
+}
+
+.sombra {
+  box-shadow: 0 0 1em #b3b3b3;
+}
+
+.custom-shape-divider-bottom-1650378902 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1650378902 svg {
+  position: relative;
+  display: block;
+  width: calc(150% + 1.3px);
+  height: 268px;
+  max-width: 400px;
+}
+
+.custom-shape-divider-bottom-1650378902 .shape-fill {
+  fill: #47AF99;
+}
+
+.q1q2t {
+  font-size: 12px;
+  margin: 0%;
+}
+
+.porcentagem {
+  width: 50px;
+  color: #787979;
+  margin-left: 88%;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+.textobarrinhas {
+  width: 230px;
+  margin: 0 0 0 16px;
+}
+
+.backG {
+  background-color: #f9f9f9;
+}
+
+.by {
+  font-size: 16px;
+}
+
+.email {
+  font-size: 33px;
+  text-align: center;
+  max-width: 420px;
+}
+
+
+
+/*  parte de  media queries */
+/*  parte de  media queries */
+/*  parte de  media queries */
+/*  parte de  media queries */
+/*  parte de  media queries */
+/*  parte de  media queries */
+/*  parte de  media queries */
+/*  parte de  media queries */
+
+
+@media (min-width: 600px) {
+  .partecima {
+    max-width: 600px;
+    margin: auto;
+  }
+
+
+
+  .buton {
+    font-size: 21px;
+    width: 240px;
+    left: 0%;
+    bottom: 480px;
+  }
+
+  .b {
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .imghomem {
+    width: 292px;
+    right: 65px;
+    margin-top: 15%;
+  }
+
+  .listrinha6 {
+    margin-left: 0%;
+  }
+
+  .barrinha1,
+  .barrinha2,
+  .barrinha3,
+  .barrinha4 {
+    margin-left: 0%;
+    width: 620px;
+  }
+
+  .barras {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .porcentagem {
+    margin-left: 57%;
+  }
+
+  .qp {
+    width: 330px;
+    height: 330px;
+    margin-left: 11%;
+  }
+
+  .qp2 {
+    width: 330px;
+    height: 330px;
+  }
+
+  .partebaixa {
+    max-width: 1500px;
+  }
+
+  .icon {
+    width: 140px;
+  }
+
+  .q1q2t {
+    font-size: 30px;
+    margin-top: 10px;
+  }
+
+  .waveg {
+    margin-bottom: 10%;
+    margin-left: none;
+  }
+
+  .cinzaoatras {
+    max-height: 930px;
+  }
+
+  .waveg {
+    border: #64c9ba solid 2px;
+    background-color: #45a88e;
+    color: #ffffff;
+    width: 900px;
+    height: 300px;
+    position: relative;
+    border-radius: 10px;
+    left: 1.5%;
+    margin: auto;
+    max-width: 1500px;
+    margin-top: 400px;
+  }
+
+  .listrinha4 {
+    margin-left: 28%;
+  }
+
+  .cantos {
+    left: 520px;
+  }
+
+  .cantos2 {
+    left: 460px;
+  }
+
+  .cantos3 {
+    left: 550px;
+  }
+
+  .cantos4 {
+    left: 400px;
+  }
+  .topzinho {position: relative;
+    bottom: 0px;}
+    
+}
